@@ -9,3 +9,5 @@ Tambien me gusta :
 Mucho la tecnología :)
 
 Estudio Programación :)
+
+Cambios para pull requests
